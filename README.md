@@ -29,7 +29,8 @@ Nome, CEP, cidade, etc.).
 #### B. Diagramas de sequência:
 
 - Busca de um contato:
-![Uploading sequence-diagram.png…]()
+![sequence-diagram (1)](https://user-images.githubusercontent.com/71938841/125536959-d06e1916-2d62-4784-a4f1-ee670c910d5c.png)
+
 
 - Adição de um novo grupo de contato:
 
