@@ -33,6 +33,8 @@ Nome, CEP, cidade, etc.).
 
 
 - Adição de um novo grupo de contato:
+![sequence-diagram (2)](https://user-images.githubusercontent.com/71938841/125537657-bb0c075e-f90f-4c51-9016-d9d86b8891c6.png)
+
 
 
 #### C. Diagramas de atividade:
