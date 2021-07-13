@@ -26,3 +26,5 @@ Nome, CEP, cidade, etc.).
 ![activity-diagram](https://user-images.githubusercontent.com/71938841/125516078-cb62affa-0b76-43ec-8628-68bf2e6963b8.png)
 
 – Adição de um novo grupo de contato
+![activity-diagram (1)](https://user-images.githubusercontent.com/71938841/125519888-6f07a238-a90c-47d6-adc4-3a70248c26cd.png)
+
