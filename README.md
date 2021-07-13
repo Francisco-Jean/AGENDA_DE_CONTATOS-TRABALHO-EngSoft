@@ -6,8 +6,8 @@
 |NOME|EMAIL|MATRÍCULA|
 | -------- | -------- | -------- |
 |Efraim Ferreira Damasceno|@aluno.ifce.edu.br|2018|
-|Efraim Ferreira Damasceno|@aluno.ifce.edu.br|2018|
-|Efraim Ferreira Damasceno|@aluno.ifce.edu.br|2018|
-|Efraim Ferreira Damasceno|@aluno.ifce.edu.br|2018|
+|Francisco Jean da Silva de Sousa|@aluno.ifce.edu.br|2018|
+|Jonas Oliveira|@aluno.ifce.edu.br|2018|
+|Moises Ferreira|@aluno.ifce.edu.br|2018|
 
 ## 1. Requisitos do sistema:
