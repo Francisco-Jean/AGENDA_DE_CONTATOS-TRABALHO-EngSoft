@@ -94,7 +94,7 @@ Nome, CEP, cidade, etc.).
 
 
 #### F. Explicitar a arquitetura escolhida:
-  O sistema é estruturado conforma a arquitetura MVC(Model-View-Controll). Buscouse-se dividir seus módulos da melhor forma possível, agregando facilidade de manutenção, bem como o reuso de partes do sistema em quaisquer outras aplicações.
+  O sistema é estruturado conforme a arquitetura MVC(Model-View-Controll). Buscouse-se dividir seus módulos da melhor forma possível, agregando facilidade de manutenção, bem como o reuso de partes do sistema em quaisquer outras aplicações.
   
 - Módulo App: Módulo que separa as entidades do MVC da execução principal da aplicação, buscando maior desacoplamento entre os dados, controladoes e vizualisações.
 
@@ -124,5 +124,5 @@ Nome, CEP, cidade, etc.).
 
 
 
-### Agradecimentos:
+#### Agradecimentos:
 - A equipe agradece ao professor Cesar Olavo pelo ótimo semestre! Buscamos dar nosso máximo não apenas em prol de questões de nota, mas também para desenvolver nossos conhecimentos sobre o mundo do desenvolvimento de software. Temos ciência que, mesmo se não seguirmos nossa tragetória diretamente interligada aos conhecimentos propostos em sala de aula, todos esses dias que passamos estudando essa cadeira não foram em vão.
