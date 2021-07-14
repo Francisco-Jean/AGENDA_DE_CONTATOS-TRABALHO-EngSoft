@@ -38,7 +38,10 @@ Nome, CEP, cidade, etc.).
 
 #### C. Diagramas de atividade:
 
-- listagem de um dado contato
+- Listagem de um dado contato:
+![activity-diagram](https://user-images.githubusercontent.com/71938841/125543760-381cd994-aa43-4d67-9289-275388056059.png)
+- Mapa de navegação de telas:
+![activity-diagram (1)](https://user-images.githubusercontent.com/71938841/125545086-d701d739-8971-4b0f-a78a-03dfe38000cd.png)
 
 
 
