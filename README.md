@@ -27,7 +27,7 @@ Nome, CEP, cidade, etc.).
 
 
 
-- Tela de cadastro. Aqui usuário entrará com um nome e uma senha, podendo realizar seu cadastro no sistema.
+- Tela de cadastro. Aqui o usuário entrará com um nome e uma senha, podendo realizar seu cadastro no sistema.
 
 ![Captura de Tela (13)](https://user-images.githubusercontent.com/71938841/125688211-d7762ab8-318b-49af-a60e-0a695a219265.png)
 
