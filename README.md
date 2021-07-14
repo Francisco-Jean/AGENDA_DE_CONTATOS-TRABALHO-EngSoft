@@ -7,7 +7,7 @@
 | -------- | -------- |
 |Efraim Ferreira Damasceno|efraim.ferreira.damasceno07@aluno.ifce.edu.br|
 |Francisco Jean da Silva de Sousa|francisco.jean.silva08@aluno.ifce.edu.br|
-|Jonas Oliveira|jonas.oliveira.santos08@aluno|
+|Jonas Oliveira|jonas.oliveira.santos08@aluno.ifce.edu.br|
 |Moises Ferreira|moises.ferreira41@aluno.ifce.edu.br|
 
 ## 1. Requisitos do sistema:
