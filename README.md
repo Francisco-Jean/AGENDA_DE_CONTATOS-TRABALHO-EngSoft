@@ -21,7 +21,7 @@ Nome, CEP, cidade, etc.).
 
 ## 2. Telas do sistema:
 
-- Tela Home. Aqui épossível visualizae alguns dados sobre o site.
+- Tela Home. Aqui é possível visualizar alguns dados sobre o site.
 
 ![Captura de Tela (12)](https://user-images.githubusercontent.com/71938841/125688189-1fd0c5e8-5451-4c71-a6d5-aae51d784b4c.png)
 
