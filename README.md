@@ -24,28 +24,40 @@ Nome, CEP, cidade, etc.).
 #### A. Casos de uso do sistema:
 
 
+
 #### B. Diagramas de sequência:
 
 - Busca de um contato:
+
 ![sequence-diagram (1)](https://user-images.githubusercontent.com/71938841/125536959-d06e1916-2d62-4784-a4f1-ee670c910d5c.png)
 
+
 - Adição de um novo grupo de contato:
+
 ![sequence-diagram (2)](https://user-images.githubusercontent.com/71938841/125537657-bb0c075e-f90f-4c51-9016-d9d86b8891c6.png)
+
 
 
 #### C. Diagramas de atividade:
 
 - Listagem de um dado contato:
+
 ![activity-diagram](https://user-images.githubusercontent.com/71938841/125543760-381cd994-aa43-4d67-9289-275388056059.png)
 
+
 - Mapa de navegação de telas:
-![activity-diagram (3)](https://user-images.githubusercontent.com/71938841/125556556-ff786299-276f-47da-a595-ba45d5f7b535.png)
+
+![activity-diagram (4)](https://user-images.githubusercontent.com/71938841/125557065-55c352a3-f28d-4cf7-ad3e-2d23904f0087.png)
+
 
 
 #### D. Diagramas de classe:
 
 
+
 #### E. Diagramas de estado de um objeto Conta:
+
+
 
 #### F. Explicitar a arquitetura escolhida.
 
