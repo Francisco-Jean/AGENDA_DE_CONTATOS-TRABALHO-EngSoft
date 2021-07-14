@@ -3,13 +3,12 @@
 #### Professor: Cesar Olavo
 
 ### Membros da equipe:
-|NOME|EMAIL|MATRÍCULA|
-| -------- | -------- | -------- |
-|Efraim Ferreira Damasceno|@aluno.ifce.edu.br|2018|
-
-|Francisco Jean da Silva de Sousa|@aluno.ifce.edu.br|2018|
-|Jonas Oliveira|@aluno.ifce.edu.br|2018|
-|Moises Ferreira|@aluno.ifce.edu.br|2018|
+|NOME|EMAIL|
+| -------- | -------- |
+|Efraim Ferreira Damasceno|@aluno.ifce.edu.br|
+|Francisco Jean da Silva de Sousa|@aluno.ifce.edu.br|
+|Jonas Oliveira|@aluno.ifce.edu.br|
+|Moises Ferreira|@aluno.ifce.edu.br|
 
 ## 1. Requisitos do sistema:
 
