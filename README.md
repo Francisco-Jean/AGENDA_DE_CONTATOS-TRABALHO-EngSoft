@@ -5,10 +5,10 @@
 ### Membros da equipe:
 |NOME|EMAIL|
 | -------- | -------- |
-|Efraim Ferreira Damasceno|@aluno.ifce.edu.br|
-|Francisco Jean da Silva de Sousa|@aluno.ifce.edu.br|
-|Jonas Oliveira|@aluno.ifce.edu.br|
-|Moises Ferreira|@aluno.ifce.edu.br|
+|Efraim Ferreira Damasceno|efraim.ferreira.damasceno07@aluno.ifce.edu.br|
+|Francisco Jean da Silva de Sousa|francisco.jean.silva08@aluno.ifce.edu.br|
+|Jonas Oliveira|jonas.oliveira.santos08@aluno|
+|Moises Ferreira|moises.ferreira41@aluno.ifce.edu.br|
 
 ## 1. Requisitos do sistema:
 
