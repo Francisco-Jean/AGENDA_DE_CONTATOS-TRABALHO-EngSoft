@@ -47,7 +47,7 @@ Nome, CEP, cidade, etc.).
 
 - Mapa de navegação de telas:
 
-![activity-diagram (4)](https://user-images.githubusercontent.com/71938841/125557065-55c352a3-f28d-4cf7-ad3e-2d23904f0087.png)
+![activity-diagram (5)](https://user-images.githubusercontent.com/71938841/125557546-44eb5f99-8b97-48d3-b580-331111fbd79a.png)
 
 
 
