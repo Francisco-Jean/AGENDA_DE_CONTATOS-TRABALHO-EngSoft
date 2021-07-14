@@ -57,8 +57,30 @@ Nome, CEP, cidade, etc.).
 
 #### E. Diagramas de estado de um objeto Conta:
 
+![state-diagram](https://user-images.githubusercontent.com/71938841/125558470-2920787e-1f65-43b0-a136-3a419c5e3d3e.png)
 
 
-#### F. Explicitar a arquitetura escolhida.
+#### F. Explicitar a arquitetura escolhida:
+  O sistema é estruturado conforma a arquitetura MVC(Model-View-Controll). Buscouse-se dividir seus módulos da melhor forma possível, agregando facilidade de manutenção, bem como o reuso de partes do sistema em quaisquer outras aplicações.
+  
+- Módulo App: Módulo que separa as entidades do MVC da execução principal da aplicação, buscando maior desacoplamento entre os dados, controladoes e vizualisações.
+
+
+
+- Módulo models: Especifica como as entidades são constituídas, formas de aquisição de dados, além de realizar consultas, inserções e exclusões no bancode dados.
+
+
+
+- Módulo  controllers: Realiza a ligação entre os dados e a amostragem dos mesmos, recebendo todas as requisições do sistema e enviand-as para o tratamento adequado.
+
+
+
+- Módulos Estatic e Templates: Usados para guardar os componentes que estruturam as páginas do sistema, sendo uma abstração do VIEW do MVC.
+
+![component-diagram](https://user-images.githubusercontent.com/71938841/125561574-74ef6746-8469-4900-a9d1-c645c02023a5.png)
+
+
 
 #### G. Elaborar os diagramas de implantação:
+
+
