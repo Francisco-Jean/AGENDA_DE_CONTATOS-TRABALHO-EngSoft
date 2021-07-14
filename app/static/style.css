@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    background: linear-gradient(45deg, rgba(0, 0, 0, 0), rgb(0, 0, 0));
+    background-repeat: no-repeat;
+    min-width: 100vw;
+    min-height: 100vh;
+}
+
+.navbar {
+    height: 15vh;
+    background: rgb(61, 61, 61);
+    display: flex;
+    align-items: center;
+    
+}
+
+h3 {
+    width: 45vw;
+    color: white;
+    font-size: 40px;
+    
+}
+
+.btnav {
+    font-size: 20px;
+    margin: 15px;
+    min-width: 180px;
+    border-radius: 5px;
+    min-height: 30px;
+    background: white;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+
+form {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+    min-height: 50vh;
+    background: white;
+    min-width: 50vw;
+    margin: 20px;
+}
+
+input{
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+}
+
+.cadastro{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.entername{
+    border: 2px solid;
+    font-size: 20px;
+}
+
+.pesquisa{
+    display: flex;
+    align-items:flex-start;
+    justify-items: center;
+    flex-direction: row;
+}
+
+ol{
+
+    font-size: 40px;
+    margin: 20px;
+}
+
+.oi{
+    background: linear-gradient(45deg, rgba(0, 0, 0, 0), rgb(0, 0, 0));
+}
+
+button{
+    font-size: 20px;
+}
+
+.well{
+    font-size: 50px;
+}

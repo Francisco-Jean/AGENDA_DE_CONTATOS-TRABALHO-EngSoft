@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ super ()}}  - Index{% endblock %}
+
+{% block content %}
+
+<div class="cadastro">
+    <h1>Cadastrar Usuário</h1>
+
+    <div>
+            <p>{{ valor }}</p>
+    </div>
+
+    <form action="http://127.0.0.1:5000/Createuser" method="GET">
+        <input class="entername" placeholder="Digite seu nome" name="nome" type="text">
+        <input class="entername" placeholder="Digite uma senha" name="senha" type="text">
+        <button type="submit">Cadastrar</button>
+    </form>
+</div>
+
+{% endblock %}

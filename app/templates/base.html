@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Agenda</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <div class="navbar">
+        <h3>&nbsp;&nbsp; Agenda de <br>&nbsp;&nbsp;&nbsp;contatos</h3> 
+        <a class="btnav" href="http://127.0.0.1:5000/">Home</a>
+        <a class="btnav" href="http://127.0.0.1:5000/Cadastro">Cadastrar Usuário</a>
+        <a class="btnav" href="http://127.0.0.1:5000/Cadastrocontato">Cadastrar Contato</a>
+        <a class="btnav" href="http://127.0.0.1:5000/Buscarcontato">Listar Contatos</a>
+    </div>
+
+    {% block content %}
+    {% endblock %}
+
+    
+</body>
+</html>
+

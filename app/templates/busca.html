@@ -1,0 +1,44 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ super ()}}  - Index{% endblock %}
+
+{% block content %}
+
+<div class="cadastro">
+    <h1>Buscar Contatos</h1>
+
+    <div>
+        <p>{{ valor }}</p>
+    </div>
+
+    <form class="pesquisa" action="http://127.0.0.1:5000/Listcontatos" method="GET">
+
+        <select name="forma">
+            <option value="TODOS">PESQUISAR TODOS</option>
+            <option value="NOME">PESQUISAR POR NOME</option>
+            <option value="NUMERO">PESQUISAR POR NUMERO</option>
+        </select>
+
+        <input name="nome" placeholder="Digite o seu nome" type="text">
+        <input class="entername" placeholder="Digite o valor" name="dado" type="text">
+        <button type="submit">Buscar</button>
+
+    </form>
+
+        <p>{{ lista3 }}</p>
+
+    <div>
+        <p class="well">| NOME | NUMERO | EMAIL |</p>
+
+        <ol>
+            {% for x in lista2 %}
+            
+            <li>{{ x }} | </li>
+            {%endfor%}
+        </ol>
+        
+    </div>
+
+</div>
+
+{% endblock %}
