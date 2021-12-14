@@ -25,7 +25,10 @@ h3 {
     width: 45vw;
     color: white;
     font-size: 40px;
-    
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
 }
 
 .btnav {
